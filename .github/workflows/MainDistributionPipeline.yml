@@ -13,6 +13,7 @@ concurrency:
 
 
 
+
 jobs:
   duckdb-stable-build:
     name: Build extension binaries
